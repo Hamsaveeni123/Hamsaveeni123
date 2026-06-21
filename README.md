@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Hamsaveeni 👋<br><br>## Aspiring DevOps Engineer ☁️<br><br>🔭 I’m currently working on Java Projects and Building My GitHub Portfolio<br><br>👯 I’m looking to collaborate on Student and Open Source Projects<br><br>🤝 I’m looking for help with AWS, Docker, Kubernetes, and DevOps Practices<br><br>🌱 I’m currently learning Java, Git, GitHub, Cloud Computing, AWS, and DevOps<br><br>💬 Ask me about Java Basics, GitHub, Student Projects, and Volleyball<br><br>⚡ Fun fact: State-Level Volleyball Player 🏐 with a passion for Cloud & DevOps<br><br>## Connect with Me<br>LinkedIn: www.linkedin.com/in/hamsaveeni-srinivas-0b633a30a
+## Hamsaveeni S<br>Computer Science Engineering Student<br>Aspiring DevOps Engineer<br>Currently working on Java projects and building my GitHub portfolio.<br>Interested in Cloud Computing, DevOps, and Open Source Projects.<br>Currently learning:<br>- Java<br>- Git & GitHub<br>- Cloud Computing<br>- AWS<br>- DevOps<br>Looking to collaborate on student and open-source projects.<br>LinkedIn:<br>www.linkedin.com/in/hamsaveeni-srinivas-0b633a30a
 
 
 ## 🌐 Socials:
